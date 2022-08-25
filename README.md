@@ -1,0 +1,2 @@
+# verbose-broccoli 
+<p> What this repository is about is during my time in this class what i would like to learn and use as a skill to help me in life and be able to make websites for a living and learning how to code using multiple languages<p>
